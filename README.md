@@ -1,8 +1,13 @@
-# Aether Repo Template
+# Power BI Data Encryption Vigenere Square
 
 
-For ease of use please format repo names in a similar way to below
+Vigenere square is used to perform data encryption against a cipher
 
-powerbi_script_refreshupdate
+In this instance - a parameter is set with the cipher to then compare against the word to be encrypted 
 
-Microsoft Product_Repo Type_Name
+Using a shifted alphabet table the word and cipher are joined to pull an encrypted letter
+
+This is done by using the word and then matching against a repeated cipher
+
+Hello World
+AERHE RAETH
